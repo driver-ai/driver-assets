@@ -1,3 +1,3 @@
 # driver-assets
 
- ![Logo](https://github.com/driver-ai/driver-assets/blob/main/bw_wordmark.svg)
+ ![Logo](https://raw.githubusercontent.com/driver-ai/driver-assets/main/bw_wordmark.svg)
